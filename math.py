@@ -1,8 +1,6 @@
-#Add implementation
 def add(x,y);
 	pass
 
-#Subtract Implementation
 def sub(x,y);
 	pass
 
